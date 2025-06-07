@@ -1,2 +1,3 @@
 # Python-for-Cybersecurity-workshop-ContinuumCon
 Python for Cybersecurity: Build Your First CLI Hacking Tool with AI
+In this hands-on workshop. you will build your first Python-based command-line hacking tool with the help of AI. We'll guide you through parsing cybersecurity data(like Nmap scans), building CLI applications using Python Fire, and even using generative AI(like OpenAI or local models) to assist with tool suggestions, log analysis, and basic scripting. Whether you are on the red or blue team, you will leave with a working tool, practical Python knowledge, and new ideas for automating security tasks. This workshop serves as a preview for https://thehackinglab.com full Python for Cybersecurity course with Ai that will launch in August 2025.
